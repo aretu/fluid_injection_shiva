@@ -36,7 +36,7 @@ The data consist in time series of high velocity friction experiments run with S
 
 ## Workflow
 
-![Workflow](/workflow.png "Workflow")
+![Workflow](https://github.com/aretu/fluid_injection_shiva/blob/main/worflow.png?raw=true)
 
 Figure 1. Data reduction workflow. SHIVA raw data is not included. SHIVA red data (shivaUNIX and jupyter) are included in this data repository in separate folders. Numerical models are in models folder (the relation fin data to model is 1:n). The scripts to convert SHIVA raw data into SHIVA red data are at this link, we include the jupyter script with most of the workflow in scripts/plots-multireactivation.ipynb (from 2nd reduction to slicing and plotting), the scripts to obtain numerical models are at this link.
 
