@@ -1,0 +1,6 @@
+[submodule "code/shivaUNIX"]
+	path = code/shivaUNIX
+	url = https://github.com/aretu/shivaUNIX
+[submodule "code/RSF-directmodels"]
+	path = code/RSF-directmodels
+	url = https://github.com/aretu/RSF-directmodels
