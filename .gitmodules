@@ -4,3 +4,6 @@
 [submodule "code/RSF-directmodels"]
 	path = code/RSF-directmodels
 	url = https://github.com/aretu/RSF-directmodels
+[submodule "code/JM_permeability"]
+	path = code/JM_permeability
+	url = git@github.com:aretu/JM_permeability.git
