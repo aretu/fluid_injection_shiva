@@ -1,8 +1,22 @@
-*.svg
-*.fig
-*.bkp
-*.mat
-*.ini
-*.dat
-*.xlsx
-*.png
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+
+# Documentation and environment files
+!*.md
+!*.toml
+!*.yml
+
+# Code files
+!*.m
+!*.jl
+!*.ipynb
+
+# Parameters file
+!*.xls
+!*.list
+
+# ...even if they are in subdirectories
+!*/
