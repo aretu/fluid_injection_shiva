@@ -1,8 +1,8 @@
-# fluid_injection_shiva
-Fluid injection shiva publication
+# Shiva fluid injection experiments workflow
+This repository contains the data reduction workflow of fluid injection experiments run with SHIVA apparatus (HPHT laboratory, INGV, Rome).
 
 ## Data repository document
-All data included in this data repository is ancillary to the manuscript “XXXXX”, submitted to XXXXX. 
+All data included in this data repository is ancillary to the manuscript "Fault slip style in fluid injection experiments controlled by fault structure", to be submitted to "Communications Earth & Environment" by Aretusini and coauthors. 
 
 The data consist in time series of high velocity friction experiments run with SHIVA (INGV, Rome) and numerical models. The data format is .mat, proprietary to Matlab, but they can be easily accessed with Python (see link). Each .mat file contains vectors of the measured variables when opened from Matlab, or dictionaries when opened using the scipy.loadmat() function. 
 
